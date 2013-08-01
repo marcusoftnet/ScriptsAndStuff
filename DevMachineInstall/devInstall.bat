@@ -3,4 +3,4 @@
 
 
 # INSTALL MARCUS DEV APPS 
-@powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://raw.github.com/marcusoftnet/ScriptsAndStuff/master/devApps.ps1'))" 
+@powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://raw.github.com/marcusoftnet/ScriptsAndStuff/master/DevMachineInstall/devApps.ps1'))" 
