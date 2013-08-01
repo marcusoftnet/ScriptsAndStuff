@@ -13,9 +13,6 @@ cinstm curl
 cinstm linqpad4
 cinstm mongodb
 cinstm MongoVUE
-cinstm P4Merge
-cinstm Growl 
-cinstm pidgin
 cinstm typescript
 cinstm typescript.vs
 cinstm VisualStudio2013Ultimate
