@@ -1,6 +1,6 @@
 # Dev apps to install
 cinstm notepadplusplus
-#cinstm Firefox
+cinstm Firefox
 #cinstm winmerge
 #cinstm git
 #cinstm resharper -Version 7.1.3000.2254
