@@ -10,6 +10,7 @@ cinstm WebEssentials2012
 cinstm resharper -Version 7.1.3000.2254 # Use only resharper if you want the latests. This is what I have a license for
 cinstm typescript
 cinstm typescript.vs
+cinstm SpecFlow
 
 # databases and tools
 cinstm MsSqlServer2012Express
