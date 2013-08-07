@@ -23,6 +23,7 @@ cinstm GoogleChrome
 
 # Other tools
 cinstm git
+cinstm gitextensions
 cinstm notepadplusplus
 cinstm winmerge
 cinstm Console2
