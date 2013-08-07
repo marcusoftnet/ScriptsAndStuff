@@ -11,6 +11,7 @@ cinstm resharper -Version 7.1.3000.2254 # Use only resharper if you want the lat
 cinstm typescript
 cinstm typescript.vs
 cinstm SpecFlow
+cinstm mightymoose
 
 # databases and tools
 cinstm MsSqlServer2012Express
