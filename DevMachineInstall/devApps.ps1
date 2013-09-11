@@ -36,4 +36,4 @@ cinstm linqpad4
 cinstm scriptcs
 cinstm sublimetext2
 cinstm SublimeText2.PackageControl
-
+cinstm ccleaner
