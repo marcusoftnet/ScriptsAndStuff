@@ -4,7 +4,7 @@
 cinstm VisualStudio2013Ultimate
 cinstm VisualStudio2012Ultimate
 
-# Visual studio add-ins
+# Visual studio add-ins and stuff
 cinstm xUnit.vs2012
 cinstm WebEssentials2012
 cinstm resharper -Version 7.1.3000.2254 # Use only resharper if you want the latests. This is what I have a license for
